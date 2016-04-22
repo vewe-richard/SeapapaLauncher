@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">libactivities</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="forget_password">Forget Password</string>
+
+    <string name="title_select_apps">Choose Applications to be locked</string>
+    <string name="title_select_apps2">Group Applications</string>
+
+    <string name="item_visitor_mode">Protection Mode</string>
+    <string name="item_app_selection">Select Protected Applications</string>
+    <string name="item_night_setting">Midnight Setting</string>
+    <string name="item_change_pwd">Change Password</string>
+    <string name="item_password_hint">Question on forget Password</string>
+    <string name="item_about">About</string>
+
+    <string name="parent_app_group">Application Permission Setting</string>
+    <string name="parent_basic_limit">Basic Control</string>
+    <string name="parent_on_school">On School Mode</string>
+    <string name="parent_more">More</string>
+    <string name="parent_about">About Project</string>
+    <string name="title_parent">Parent Setting</string>
+    <string name="title_visitor">Setting</string>
+
+    <string name="cancelButton">Reset</string>
+    <string name="confirmButton">Confirm</string>
+
+    <string name="password_wrong">Wrong Password, Please enter again</string>
+
+    <string name="password_create">Please set password</string>
+    <string name="password_check">Please enter password</string>
+    <string name="password_old">Please enter old password</string>
+    <string name="password_new">Please set new password</string>
+    <string name="password_hint">digits</string>
+    <string name="password_again">Please enter again</string>
+    <string name="password_unmatch">Mismatch, please enter again</string>
+
+    <string name="hint_fail_get_password">Can not get user password</string>
+
+    <string name="title_password_input">Input Password</string>
+    <string name="title_password_set">Set Password</string>
+
+    <string name="hint_about">About</string>
+    <string name="hint_about_content">Blue Sea software studio\r\njiang.j.qian@qq.com\r\nCopyright@2015</string>
+    <string name="title_activity_password_q">Hint to password</string>
+    <string name="hint_password">We will ask your Birthday when you forget your password, so, set your birthday here,
+    for example, 19901011</string>
+    <string name="password_question">Please enter the birthday you had input, such as 19901011</string>
+
+    <string name="hint_password2">Please enter a question and its answer, such as name of your familiar teacher</string>
+    <string name="hint_question">Question</string>
+    <string name="hint_default_question">Name of my Mathematics in high school</string>
+    <string name="hint_answer">Answer</string>
+
+    <string name="first_time">"111111" is the initial password, please change it, \r\nLong press the desktop > Parent Setting > Change Password</string>
+    <string name="first_help">first time using</string>
+    <string name="help_line1">1. Initial password is 111111</string>
+    <string name="help_line2">2. Press right-top icon or long press the desktop can enter parent setting</string>
+    <string name="help_line3">3. There are four types of application</string>
+    <string name="help_line3_1">    [Free] free\r\n    [Info] Can only be used connecting to home wifi\r\n    [Game] Can not be use after exceed the limited time\r\n    [Forbidden] Forbidden</string>
+    <string name="help_line4">4. Default 20 minutes everyday, time can be left to the next day</string>
+
+    <string name="findpwd_noqa">You had not set a question to find back the password</string>
+    <string name="cancel_it">Cancel</string>
+
+    <string name="type_free">free</string>
+    <string name="type_limited">game</string>
+    <string name="type_forbidden">forbidden</string>
+    <string name="type_home">Info</string>
+    <string name="app_item_label">Application Name</string>
+    <string name="title_activity_basic_control">Basic Setting</string>
+
+    <string name="bs_base_time">Everyday get time for game</string>
+    <string name="bs_minute">Minutes</string>
+    <string name="bs_no_limit">NO LIMIT</string>
+
+    <string name="bs_no_wifi">Lock these apps when wifi not available</string>
+
+    <string name="bs_workday">Lock below apps on Weekday out of this range 16:00~20:30</string>
+    <string name="bs_weekend">Lock below apps on Weekend out of this range 9:00~21:00</string>
+    <string name="bs_adjust">Adjust Game time Temporary</string>
+    <string name="bs_add">Add</string>
+    <string name="bs_decrease">Dec...</string>
+
+    <string name="bs_close">Mute on Class</string>
+
+    <string name="cb_info">Info</string>
+    <string name="cb_game">Game</string>
+    <string name="cb_all">All</string>
+    <string name="title_activity_more_setting">Parent Setting</string>
+    <string name="ms_applist">Allow visit application list</string>
+    <string name="ms_show_lefttime">Show left time on Desktop</string>
+    <string name="ms_show_icon">Show parent control icon on Desktop</string>
+    <string name="ms_extra_pwd">Set extra password for forbidden applications</string>
+    <string name="ms_contract">Contract the Developer</string>
+    <string name="ms_default">Restore Default Setting</string>
+    <string name="ms_autogroup">Auto Grouping Applications</string>
+
+    <string name="apps_lefttime">Left Minutes</string>
+    <string name="apps_basetime">Base Time</string>
+    <string name="apps_prevleft">Previous Left</string>
+    <string name="apps_extra">Extra Added</string>
+    <string name="apps_used">Time Used</string>
+    <string name="title_activity_app_records">App Records</string>
+    <string name="title_parent_setting">Parent Setting</string>
+    <string name="title_app_permission">Applications Permission</string>
+    <string name="title_allowed_time">Allowed Time</string>
+    <string name="title_more_settings">More Settings</string>
+    <string name="apps_nextday">Next Day</string>
+    <string name="apps_prevday">Previous</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="unknown">Unknown</string>
+    <string name="apps_minute">m</string>
+    <string name="apps_second">s</string>
+    <string name="apps_date">10/19 Monday</string>
+    <string name="title_activity_first_time_install">Welcome to Use</string>
+    <string name="password_skip">Enter Password to Skip</string>
+
+    <string name="confirm_yes">Yes</string>
+</resources>

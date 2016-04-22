@@ -1,0 +1,17 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="myblog.richard.vewe.libservice">
+    <uses-permission android:name="android.permission.GET_TASKS"></uses-permission>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application>
+        <service
+            android:name="myblog.richard.vewe.libservice.MyService"
+            android:enabled="true"
+            android:exported="true"
+            android:stopWithTask="false">
+        </service>
+    </application>
+
+</manifest>

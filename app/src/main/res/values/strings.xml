@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="title_activity_test_provider">TestProviderActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test_ui">TestUIActivity</string>
+</resources>

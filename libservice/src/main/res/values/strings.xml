@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">libservice</string>
+    <string name="title_password_input">Password Input</string>
+    <string name="unknown">Unknown</string>
+    <string name="notification">Parent Control</string>
+    <string name="choose_this_desktop">Current desktop is not Student Desktop, please always choose Student Desktop, or input parent control password to cancel this promption</string>
+    <string name="password_str">Password</string>
+</resources>

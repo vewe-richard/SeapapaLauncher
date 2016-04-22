@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/launcher3/launcher3.iml" filepath="$PROJECT_DIR$/launcher3/launcher3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libactivities/libactivities.iml" filepath="$PROJECT_DIR$/libactivities/libactivities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libcommon/libcommon.iml" filepath="$PROJECT_DIR$/libcommon/libcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libservice/libservice.iml" filepath="$PROJECT_DIR$/libservice/libservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libusersprovider/libusersprovider.iml" filepath="$PROJECT_DIR$/libusersprovider/libusersprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblog2.iml" filepath="$PROJECT_DIR$/myblog2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wallpaperpick/wallpaperpick.iml" filepath="$PROJECT_DIR$/wallpaperpick/wallpaperpick.iml" />
+    </modules>
+  </component>
+</project>

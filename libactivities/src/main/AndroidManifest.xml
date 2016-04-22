@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="myblog.richard.vewe.libactivities" >
+
+    <application>
+        <activity
+            android:name=".SelectProtectAppsActivity"
+            android:label="@string/title_select_apps"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".SelectAppsActivity"
+            android:label="@string/title_select_apps2"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".VisitorSettingActivity"
+            android:label="@string/title_visitor"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".NewPasswordActivity"
+            android:label="@string/title_password_set"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".PasswordCheckActivity"
+            android:label="@string/title_password_input"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".PasswordCheckByService"
+            android:label="@string/title_password_input"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".PasswordQA"
+            android:label="@string/title_activity_password_q"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name=".PasswordQA2"
+            android:label="@string/title_activity_password_q"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name=".BasicControlActivity"
+            android:label="@string/title_activity_basic_control"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name=".MoreSettingActivity"
+            android:label="@string/title_activity_more_setting"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name=".AppRecordsActivity"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name=".WebviewActivity"
+            android:label="@string/title_activity_first_time_install" >
+        </activity>
+        <activity
+            android:name=".ActionActivity"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+    </application>
+
+</manifest>

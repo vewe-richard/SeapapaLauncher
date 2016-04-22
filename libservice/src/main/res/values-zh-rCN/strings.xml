@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_password_input">密码输入</string>
+    <string name="unknown">未知</string>
+    <string name="notification">学生手机守护进程</string>
+    <string name="choose_this_desktop">“学生桌面”需要被设置为默认桌面，请按提示完成\n1. 选择OK\n2. 选择“学生桌面”\n3. 个别手机需要重复多次该选择过程，只要"始终"选择“学生桌面”即可</string>
+    <string name="password_str">密码</string>
+</resources>

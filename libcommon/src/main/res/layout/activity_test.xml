@@ -1,0 +1,45 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" android:layout_height="fill_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        tools:context="myblog.richard.vewe.libcommon.test.TestActivity"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/editText" />
+            <TextView android:id="@+id/information"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <include android:id="@+id/row0"
+            layout="@layout/buttons_row_test"/>
+        <include android:id="@+id/row1"
+            layout="@layout/buttons_row_test"/>
+        <include android:id="@+id/row2"
+            layout="@layout/buttons_row_test"/>
+        <include android:id="@+id/row3"
+            layout="@layout/buttons_row_test"/>
+        <include android:id="@+id/row4"
+            layout="@layout/buttons_row_test"/>
+        <include android:id="@+id/row5"
+            layout="@layout/buttons_row_test"/>
+        <include android:id="@+id/row6"
+            layout="@layout/buttons_row_test"/>
+        <include android:id="@+id/row7"
+            layout="@layout/buttons_row_test"/>
+        <include android:id="@+id/row8"
+            layout="@layout/buttons_row_test"/>
+    </LinearLayout>
+</ScrollView>

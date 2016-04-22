@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">libusersprovider</string>
+    <string name="rule_app_locked">Application is locked</string>
+    <string name="rule_app_timelimited">Application is locked due to no more time</string>
+    <string name="rule_app_wifi_disable">Application is locked due to wifi is not usable</string>
+    <string name="rule_period_limited">Application can be use during </string>
+
+    <string name="holiday">Holiday</string>
+    <string name="workday">Studay Day</string>
+    <string name="everyday">Every Day</string>
+
+    <string name="hint_strategy">Hint Strategy</string>
+    <string name="hint_only">Only Hint</string>
+    <string name="hint_lock_after">Lock after 5 minutes</string>
+    <string name="hint_direct_lock">Lock Directly</string>
+
+    <string name="hint_lefttime">Left time is not enough, please exit</string>
+    <string name="hint_wifi">wifi is not available</string>
+    <string name="hint_curtime">Current time is</string>
+    <string name="hint_quit">please exit</string>
+</resources>

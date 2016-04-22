@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rule_app_locked">应用被锁</string>
+    <string name="rule_app_timelimited">时间不够应用被锁</string>
+    <string name="rule_app_wifi_disable">仅Wifi连接后可用</string>
+    <string name="rule_period_limited">此应用使用时段\r\n</string>
+    <string name="holiday">周末</string>
+    <string name="workday">学习日</string>
+    <string name="everyday">每天</string>
+
+    <string name="hint_strategy">超时提示策略</string>
+    <string name="hint_only">仅提醒</string>
+    <string name="hint_lock_after">提醒且5分\n钟后锁住</string>
+    <string name="hint_direct_lock">直接锁住</string>
+
+    <string name="hint_lefttime">剩余时间不足，请尽快退出</string>
+    <string name="hint_wifi">wifi断开</string>
+    <string name="hint_curtime">当前时间</string>
+    <string name="hint_quit">尽快退出</string>
+</resources>

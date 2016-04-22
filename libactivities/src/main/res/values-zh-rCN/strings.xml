@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_select_apps">选择需要加锁的应用</string>
+    <string name="title_select_apps2">应用分类</string>
+    <string name="forget_password">忘记密码</string>
+
+    <string name="item_visitor_mode">保护模式</string>
+    <string name="item_app_selection">选择加锁的应用</string>
+    <string name="item_night_setting">夜间设置</string>
+    <string name="item_change_pwd">修改密码</string>
+    <string name="item_password_hint">密保设置</string>
+    <string name="item_about">关于</string>
+
+    <string name="parent_app_group">应用分类</string>
+    <string name="parent_basic_limit">基本限制</string>
+    <string name="parent_on_school">上学模式</string>
+    <string name="parent_more">更多设置</string>
+    <string name="parent_about">关于学生手机项目</string>
+
+    <string name="title_parent">父母设置</string>
+
+    <string name="title_visitor">设置</string>
+
+
+    <string name="cancelButton">清除</string>
+    <string name="confirmButton">确认</string>
+
+    <string name="password_wrong">密码错误，请重新输入</string>
+
+    <string name="password_create">请设置密码</string>
+    <string name="password_check">请输入密码</string>
+    <string name="password_old">请输入旧密码</string>
+    <string name="password_new">请设置新密码</string>
+    <string name="password_hint">位数字</string>
+
+    <string name="title_password_input">密码输入</string>
+    <string name="title_password_set">密码设置</string>
+
+
+    <string name="password_again">请再次输入</string>
+    <string name="password_unmatch">输入不一致，请重新输入</string>
+
+    <string name="hint_fail_get_password">获取用户密码失败</string>
+    <string name="hint_about">关于</string>
+    <string name="hint_about_content">钱江钱海软件工作室\r\njiang.j.qian@qq.com\r\n微信:13500057899\r\nCopyright@2015</string>
+
+    <string name="title_activity_password_q">密码提示设置</string>
+
+    <string name="hint_password">当你忘记密码时将询问你的出生日期，请在这里设定，比如：19801011</string>
+    <string name="password_question">请输入你的出生日期，比如19801011</string>
+
+    <string name="hint_password2">请输入一个密保问题和答案，比如你高三班主任的名字,大学上铺同学,或初一语文老师等你小孩不知道的问题</string>
+    <string name="hint_question">密保问题: </string>
+    <string name="hint_default_question">高三班主任的名字?</string>
+    <string name="hint_answer">答案: </string>
+
+    <string name="first_time">"111111" 是初始密码, 请尽早更改\r\n方法如下:\r\n长按桌面 > 父母设置 > 修改密码</string>
+    <string name="first_help">初次使用说明</string>
+
+    <string name="help_line1">1. 初始密码为 111111</string>
+    <string name="help_line2">2. 右上角图标或长按桌面可以进入父母设置</string>
+    <string name="help_line3">3. 应用分为4类</string>
+    <string name="help_line3_1">    [不限] 自由使用\r\n    [资讯] 连接家庭wifi后可用，如微信，浏览器等\r\n    [游戏] 超出时间不能使用，如游戏，视频\r\n    [禁止] 禁止使用</string>
+    <string name="help_line4">4. 限时应用默认每天有20分钟，超过则透支未来的时间，剩余也可留到下一天</string>
+
+    <string name="findpwd_noqa">您未曾设置过密保问答</string>
+
+    <string name="cancel_it">取消</string>
+
+    <string name="type_free">不限</string>
+    <string name="type_limited">游戏</string>
+    <string name="type_forbidden">禁止</string>
+    <string name="type_home">资讯</string>
+    <string name="app_item_label">应用名称</string>
+
+    <string name="title_activity_basic_control">学生设置</string>
+
+    <string name="bs_base_time">每天获得游戏时间</string>
+    <string name="bs_minute">分钟</string>
+    <string name="bs_no_limit">不限</string>
+
+    <string name="bs_no_wifi">Wifi未连接时禁止以下应用</string>
+
+    <string name="bs_workday">学习日下午四点前锁住以下应用</string>
+    <string name="bs_weekend">晚上十点后清晨8点前禁止以下应用</string>
+    <string name="bs_adjust">临时调整游戏时间</string>
+    <string name="bs_add">增加</string>
+    <string name="bs_decrease">减少</string>
+
+    <string name="bs_close">课堂自动静音</string>
+
+    <string name="cb_info">资讯类</string>
+    <string name="cb_game">游戏类</string>
+    <string name="cb_all">所有</string>
+
+    <string name="title_activity_more_setting">父母设置</string>
+    <string name="ms_applist">允许访问应用列表</string>
+    <string name="ms_show_lefttime">桌面显示剩余时间</string>
+    <string name="ms_show_icon">桌面显示父母控制图标</string>
+    <string name="ms_extra_pwd">设置禁止类应用的额外密码</string>
+    <string name="ms_contract">联系开发者</string>
+    <string name="ms_autogroup">应用自动分类</string>
+
+    <string name="ms_default">恢复默认设置</string>
+
+    <string name="apps_lefttime">剩余分钟</string>
+    <string name="apps_basetime">每天分钟数</string>
+    <string name="apps_prevleft">之前剩余</string>
+    <string name="apps_extra">额外奖励</string>
+    <string name="apps_used">已用时间</string>
+
+    <string name="apps_nextday">下一天</string>
+    <string name="apps_prevday">上一天</string>
+    <string name="monday">星期一</string>
+    <string name="tuesday">星期二</string>
+    <string name="wednesday">星期三</string>
+    <string name="thursday">星期四</string>
+    <string name="friday">星期五</string>
+    <string name="saturday">星期六</string>
+    <string name="sunday">星期日</string>
+    <string name="unknown">未知</string>
+    <string name="apps_minute">分</string>
+    <string name="apps_second">秒</string>
+    <string name="title_activity_first_time_install">欢迎使用</string>
+
+    <string name="password_skip">输入父母设置密码退出</string>
+
+    <string name="confirm_yes">是</string>
+</resources>

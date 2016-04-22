@@ -1,0 +1,61 @@
+Help: http://www.aliyun.com/product/ace/#Docs
+
+cloud:
+https://home.console.aliyun.com/#/
+user: 13500057899 or jiang.j.qian@hotmail.com
+pwd: A...a
+
+DNS:
+seapapa.cn
+seapapa.com.cn
+seapapa.com
+
+备案: jiang.j.qian@hotmail.com A...a
+
+============================================== ECS ============================
+ECS:
+pwd: 7702xx
+ip: 120.24.5.162
+root, password: A...a
+richard, password: do...WLD
+
+tmux, exit: ctrl+B, D
+tmux attach
+
+============================================== ACE ===========================
+Developing:
+Eclipse >
+create it on eclipse, just set path to /home/richard/sw/cloud/, and project name ace-java-demo
+
+
+Native >
+/home/richard/sw/cloud/myblogServer:
+mvn install
+cp target/ace-java-demo-1.0.0.war ../aliyun/ace-container/webapps/ROOT.war
+
+/home/richard/sw/cloud/aliyun/ace-container/bin
+rm -rf /home/richard/sw/cloud/aliyun/ace-container/webapps/ROOT
+./catalina.sh stop / start
+
+/home/richard/temp/node
+node client.js
+
+log see: ../logs/catalina.out
+
+
+Servlet add an entry:
+	new file:   src/main/java/ace/demo/StaticInfo.java
+	modified:   src/main/webapp/WEB-INF/web.xml
+
+============================================ Appendix ==================================
+http://pan.baidu.com/disk/home
+store myblog2 crypt
+
+
+======================================= Weixin ==================
+jiang.j.qian@qq.com A...a
+jiang.j.qian@hotmail.com A...a
+
+========================================= Baidu =========================================
+app.baidu.com
+jiang.j.qian@hotmail.com AB...121
